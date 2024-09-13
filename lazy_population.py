@@ -31,7 +31,7 @@ def process_excel_file(file_path, num_times):
 # Solicita ao usuário o caminho do arquivo e o número de vezes para duplicar a linha
 # file_path = input("Digite o caminho do arquivo Excel (.xlsx): ")
 # num_times = int(input("Digite o número de vezes para duplicar a primeira linha: "))
-# python3 -m venv ambiente
+
 file_path = "teste2.xlsx"
 num_times = 10000
 # Processa o arquivo Excel
